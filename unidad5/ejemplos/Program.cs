@@ -21,6 +21,9 @@ class Program
           Console.WriteLine("ingrese un numero");
           n = int.Parse(Console.ReadLine());
         }
+
+        // ciclo while
+        
       
     
 

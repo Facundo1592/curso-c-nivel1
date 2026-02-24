@@ -16,7 +16,7 @@ class Program
         //Console.WriteLine("21 OFF");
         // } 
 
-        // if(edad>10 && < 30)
+        // if (edad > 10 && edad < 30)
 
         int edad = 20;
         char inicial = 'J';
